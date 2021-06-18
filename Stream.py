@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 tobesentdata=dict()
 receiveddata=dict()
 def ShowData(no,le):
@@ -86,4 +86,3 @@ while(True):
 		else:
 			ToyTcpStream(chunkno,randomchunk)
 			ShowData(chunkno,len(randomchunk))#Read Function
->>>>>>> 6dd9de2f35d17f9a6b7ebdc6cd51e4b03dcfcfb1
